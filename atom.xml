@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yunghwi.github.io/"/>
-  <updated>2018-04-27T16:12:24.000Z</updated>
+  <updated>2018-04-27T16:13:47.000Z</updated>
   <id>https://yunghwi.github.io/</id>
   
   <author>
@@ -21,18 +21,13 @@
     <link href="https://yunghwi.github.io/test.html"/>
     <id>https://yunghwi.github.io/test.html</id>
     <published>2018-04-27T16:08:41.000Z</published>
-    <updated>2018-04-27T16:12:24.000Z</updated>
+    <updated>2018-04-27T16:13:47.000Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>a<br><--more--></--more--></p><p>asyghbjndsuijk</p>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>a<br><a id="more"></a></p><p>asyghbjndsuijk</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;a&lt;br&gt;&lt;--more--&gt;&lt;/--more--&gt;&lt;/p&gt;
-&lt;p&gt;asyghbjndsuijk&lt;/p&gt;
-
-      
+      &lt;p&gt;a&lt;br&gt;
     
     </summary>
     
