@@ -1,4 +1,4 @@
-layout: 标签云
+layout: tags
 comments: false
 ---
 
