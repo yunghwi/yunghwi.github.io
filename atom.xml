@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yunghwi.github.io/"/>
-  <updated>2018-04-25T09:10:32.000Z</updated>
+  <updated>2018-04-27T16:09:20.000Z</updated>
   <id>https://yunghwi.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://yunghwi.github.io/test.html"/>
+    <id>https://yunghwi.github.io/test.html</id>
+    <published>2018-04-27T16:08:41.000Z</published>
+    <updated>2018-04-27T16:09:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>asyghbjndsuijk</p>]]></content>
+    
+    <summary type="html">
+    
+      a
+    
+    </summary>
+    
+      <category term="test" scheme="https://yunghwi.github.io/categories/test/"/>
+    
+    
+      <category term="test" scheme="https://yunghwi.github.io/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
