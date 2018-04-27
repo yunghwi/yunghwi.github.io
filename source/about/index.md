@@ -1,5 +1,4 @@
-title: 关于
-type: "about"
+layout: 关于
 comments: false
 ---
 

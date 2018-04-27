@@ -1,5 +1,4 @@
-title: 标签云
-type: "tags"
+layout: 标签云
 comments: false
 ---
 
